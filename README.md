@@ -25,6 +25,13 @@
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="HTML5" width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/220px-Figma-logo.svg.png" />
 
+<br />
+
+<br />
+
+### My GitHub Stats
+
+[![Osama-you's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Osama-you&show_icons=true)](https://github.com/Osama-you)
 
 <!--
 **Osama-you/Osama-you** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,4 +46,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
 -->

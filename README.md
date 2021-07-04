@@ -1,7 +1,7 @@
 ### Hi there, I'm Osama Younis 👋
 
-## I'm a Student, Developer!
-- 🔭 I’m currently studying in [coding academy](https://gazaskygeeks.com/code/)
+## I'm a web front-end, Developer!
+- 🔭 I’m [coding academy](https://gazaskygeeks.com/code/) graduate
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Code and Anime

@@ -2,7 +2,6 @@
 
 ## I'm a web front-end, Developer!
 - 🔭 I’m [coding academy](https://gazaskygeeks.com/code/) graduate
-- 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Code and Anime
 
